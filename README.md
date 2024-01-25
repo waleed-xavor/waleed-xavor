@@ -1,5 +1,6 @@
 - Main: [@waleed-javed](https://github.com/waleed-javed)
-☝️Personal <<<< 👇 Company Profile 
+  >☝️Personal
+- Company Profile 👇  
 - 👋 Hi, I’m @nothing
 - 👀 I’m interested in @nothing
 - 🌱 I’m currently learning @nothing
